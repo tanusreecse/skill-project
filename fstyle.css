@@ -1,0 +1,58 @@
+*{
+	box-sizing:border-box;}
+	
+.wrapper{
+	width:960px;
+	margin:0 auto;
+	display:table;
+	}
+ img{
+	width:100%;
+    }
+	
+.photo{
+	float:left;
+    width:33.333333%;
+	padding:5px;
+		 
+	}
+.gallery{
+	  border:3px solid #903;
+	  
+	 }
+
+.gallery p{
+	padding:0 20px;
+	text-align:center;
+	text-decoration:none;
+	color:#C09;
+	background-color:#FFC;
+	
+	}
+.gallery .cc{
+	color:#C00;
+	text-align:center;
+	background-color:#FFC;
+	}
+.abc{
+	text-decoration:none;
+	
+	border:0px solid #009;
+	font-size:20px;
+	color:#F00;
+	padding:5px;
+	margin:5px;
+	display:table;}
+.cc .abc a{
+	text-align:center;}
+	
+.abc:hover{
+	background:#C03;
+	color:#FFF;}
+
+	
+.photo .gallery:hover img{
+	opacity:0.6;
+	
+	}
+

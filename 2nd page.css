@@ -1,0 +1,23 @@
+h1{
+	margin:10px 500px;
+	padding:10px 0px;
+	text-align:center;
+	color:#609;
+	font-style:italic;
+	height:40px;
+	width:400px;
+	font-size:30px;
+        text-shadow: 5px 5px 5px pink;
+}
+ul, ol{font-size:20px;
+  text-align:center;
+  margin:10px 10px;
+  padding:10px 0px;
+}
+tr{
+ background-color:pink;
+ text-align:center;
+}
+k{
+font-color:red;
+}

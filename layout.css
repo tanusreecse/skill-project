@@ -1,0 +1,43 @@
+*{
+	box-sizing:border-box;
+	}
+
+.list{
+	border:0px solid #C30;
+	height:500px;
+	width:100
+	}
+.list ul{
+	padding:3px;
+	margin:3px;
+	}
+.list ul li{
+	list-style-type:none;
+	border-bottom:2px solid #09F;
+	border:2px solid #C30;
+	text-align:center;
+	line-height:40px;
+	}
+.list ul li a{
+	text-decoration:none;
+	}
+.list ul li:hover{
+	color:#00C;
+	background:#F66;
+	text-decoration:none;
+}
+.body-right{
+	width:70%;
+	height:700px;
+	float:left;
+	background:#CCC;
+	}
+
+.wrp{
+	width:80%;
+	margin:0 auto;
+	display:table;
+}
+img{
+	width:100%;
+}
